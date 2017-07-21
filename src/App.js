@@ -49,7 +49,7 @@ class WeatherDisplay extends Component {
           Low: {weatherData.main.temp_min}°
         </p>
         <p>
-          Wind Speed: {weatherData.wind.speed}°
+          Wind Speed: {weatherData.wind.speed} mi/hr
         </p>
       </div>
     );
