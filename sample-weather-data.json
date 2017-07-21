@@ -1,0 +1,29 @@
+{
+  "coord": { "lon": -122.14, "lat": 37.47 },
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01n" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 69.31,
+    "pressure": 1016,
+    "humidity": 53,
+    "temp_min": 59,
+    "temp_max": 78.8
+  },
+  "visibility": 16093,
+  "wind": { "speed": 13.87, "deg": 350 },
+  "clouds": { "all": 1 },
+  "dt": 1500602160,
+  "sys": {
+    "type": 1,
+    "id": 428,
+    "message": 0.004,
+    "country": "US",
+    "sunrise": 1500642257,
+    "sunset": 1500693919
+  },
+  "id": 5345032,
+  "name": "East Palo Alto",
+  "cod": 200
+}
